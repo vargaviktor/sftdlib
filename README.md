@@ -14,4 +14,4 @@ FreeType2 (portlib): https://github.com/xerpi/3ds_portlibs
 http://xerpi.github.io/sf2dlib/html/sf2d_8h.html
 
 ## Tutorial
-Available from here(https://github.com/vargaviktor/sftdlib/blob/master/Tutorial.MD
+Available from [here](https://github.com/vargaviktor/sftdlib/blob/master/Tutorial.MD)
