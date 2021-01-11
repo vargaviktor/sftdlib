@@ -1,0 +1,12 @@
+*.d
+*.o
+*.project
+*.cproject
+*.cia
+*.cxi
+*.ncch
+*.3ds
+build/
+lib/
+.settings/
+3dslink.exe
