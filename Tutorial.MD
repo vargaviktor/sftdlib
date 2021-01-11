@@ -30,6 +30,8 @@ You need clone and build the library:
 
 Sample 3dsx available from [here](https://github.com/vargaviktor/sf2dlib/tree/master/sample) for test runs.
 
+![Screenshot of sample](https://github.com/vargaviktor/sftdlib/blob/master/sftdlib_sample.png
+
 The code first starts with the standard includes, and also includes the font converted to .h with BIN2S.
 
 ```c
